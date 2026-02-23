@@ -1,96 +1,139 @@
-<div align="center">
+<h1 align="center">👨‍💻 <span style="color:#16a34a;">Koushik Botcha</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Koushik+%F0%9F%91%8B;Full-Stack+Flutter+Developer;Real-time+%26+AI-Powered+Apps" alt="Typing SVG" />
+<p align="center" style="font-size:16px;">
+<b>Full-Stack Flutter Developer</b> building scalable, real-time & AI-powered apps with<br/>
+<b>Flutter</b> • <b>Node.js</b> • <b>PostgreSQL</b> • <b>Firebase</b><br/>
+Focused on <b>clean architecture</b>, <b>performance</b> and <b>reliable systems</b> ✨
+</p>
 
-<br/>
+<p align="center">
+<a href="https://github.com/notkoushik" target="_blank"><b>💻 GitHub</b></a> |
+<a href="https://linkedin.com/in/koushik-botcha" target="_blank"><b>🔗 LinkedIn</b></a> |
+<a href="mailto:nanikoushik96@gmail.com"><b>📧 Email</b></a>
+</p>
 
-Building scalable mobile apps with Flutter, Node.js and cloud-native backends.<br/>
-I enjoy working on real-time systems, AI in healthcare, and secure mobile experiences.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- Full-stack Flutter developer focused on **production-grade** mobile apps
-- Experience with AI integration (Gemini), real-time chat, GPS & maps, and secure auth
-- Enjoy designing clean APIs, Postgres schemas, and CI/CD pipelines
-- Open to collaborating on cross-platform, real-time, and sustainability-focused products
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Dart, Kotlin, Java, Python, JavaScript (Node.js), SQL  
-**Mobile:** Flutter, Native Android (Kotlin), Material Design 3, Responsive UI  
-**Backend:** Node.js, Express.js, PostgreSQL, Sequelize ORM, REST APIs, Firebase (Auth, FCM, Firestore)  
-**AI & Real-Time:** Google Gemini, TensorFlow Lite, WebSocket, Socket.IO, WebRTC, STT/TTS  
-**Cloud & DevOps:** Firebase, AWS (basics), Docker, GitHub Actions, Cloudinary  
-**Security & Auth:** JWT, bcrypt, NFC, Biometric Auth, Aadhaar XML  
-
----
-
-## 🚀 What I’m Working On
-
-- MedTech-style telemedicine app with AI-based symptom triage & real-time logistics  
-- Waste management & carbon-credit platform with wallets and GPS-enabled services  
-- Real-time chat & collaboration app using WebSocket and push notifications  
+<table align="center">
+<tr>
+<td align="center">
+<b>🤝 Connect with me</b><br><br>
+<a href="https://linkedin.com/in/koushik-botcha" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="mailto:nanikoushik96@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/notkoushik" target="_blank" rel="noopener noreferrer"><img src="https://api.iconify.design/mdi:github.svg" height="40" width="40" /></a>
+</td>
+<td align="center">
+<b>☕ Support my work</b><br><br>
+<!-- optional, add your own links later -->
+<a href="#" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" /></a>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Repositories
+### 🧰 Tech Stack
 
-> Replace these with your actual repo links
+#### 📱 Mobile & Frontend
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material Design" />&nbsp;
+</p>
 
-- 🏥 **MedTek** – Full-stack telemedicine app (Flutter + Node.js + PostgreSQL)  
-- ♻️ **Swach** – Waste management & carbon trading platform (Flutter + Node.js)  
-- 🔒 **Airport Security System** – NFC + biometric + Aadhaar-based verification (Flutter + Kotlin)  
-- 💬 **Realtime Chat** – WebSocket-based messaging with presence & media support  
+#### 🧠 State Management & Architecture
+<p align="center">
+<img src="https://api.iconify.design/simple-icons:dart.svg" width="40" title="Provider / Riverpod / BLoC" />&nbsp;
+<img src="https://api.iconify.design/mdi:state-machine.svg" width="40" title="BLoC Pattern" />&nbsp;
+<img src="https://api.iconify.design/mdi:layers.svg" width="40" title="Clean Architecture" />&nbsp;
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" title="Sequelize ORM" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase (Auth, FCM, Firestore)" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL / Relational DB" />&nbsp;
+</p>
+
+#### 🔌 Real-Time, Maps & Integrations
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" title="Socket.IO / WebSocket" />&nbsp;
+<img src="https://api.iconify.design/logos:websocket.svg" width="40" title="WebSocket" />&nbsp;
+<img src="https://api.iconify.design/logos:google-maps.svg" width="40" title="Google Maps API" />&nbsp;
+<img src="https://api.iconify.design/simple-icons:mapbox.svg" width="40" title="Mapbox" />&nbsp;
+<img src="https://api.iconify.design/simple-icons:webrtc.svg" width="40" title="WebRTC" />&nbsp;
+<img src="https://api.iconify.design/simple-icons:twilio.svg" width="40" title="Twilio" />&nbsp;
+<img src="https://api.iconify.design/simple-icons:gmail.svg" width="40" title="Nodemailer / Email" />&nbsp;
+<img src="https://api.iconify.design/simple-icons:barcode.svg" width="40" title="Barcode / OCR" />&nbsp;
+</p>
+
+#### 🤖 AI, ML & Voice
+<p align="center">
+<img src="https://api.iconify.design/simple-icons:googlecloud.svg" width="40" title="Google Gemini (via Google Cloud)" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow Lite" />&nbsp;
+<img src="https://api.iconify.design/mdi:microphone.svg" width="40" title="Speech-to-Text" />&nbsp;
+<img src="https://api.iconify.design/mdi:text-to-speech.svg" width="40" title="Text-to-Speech" />&nbsp;
+</p>
+
+#### 🔐 Security & Auth
+<p align="center">
+<img src="https://api.iconify.design/simple-icons:jsonwebtokens.svg" width="40" title="JWT" />&nbsp;
+<img src="https://api.iconify.design/mdi:shield-lock.svg" width="40" title="bcrypt / Secure Auth" />&nbsp;
+<img src="https://api.iconify.design/mdi:nfc.svg" width="40" title="NFC" />&nbsp;
+<img src="https://api.iconify.design/mdi:fingerprint.svg" width="40" title="Biometric Auth" />&nbsp;
+<img src="https://api.iconify.design/mdi:id-card.svg" width="40" title="Aadhaar XML" />&nbsp;
+</p>
+
+#### ☁️ Cloud, DevOps & Tools
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />&nbsp;
+<img src="https://api.iconify.design/logos:aws.svg" width="40" title="AWS" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />&nbsp;
+<img src="https://api.iconify.design/simple-icons:githubactions.svg" width="40" title="GitHub Actions" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />&nbsp;
+<img src="https://api.iconify.design/logos:postman-icon.svg" width="40" title="Postman" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio" />&nbsp;
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Insights
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=notkoushik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkoushik&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+<a href="https://github.com/notkoushik">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notkoushik&theme=vue"
+alt="GitHub Profile Summary"
+/>
+</a>
+</p>
 
-  <br/>
+<p align="center">
+<a href="https://github.com/notkoushik">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notkoushik&theme=vue"
+width="320"
+alt="GitHub Stats"
+/>
+</a>
+<a href="https://github.com/notkoushik?tab=repositories">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notkoushik&theme=vue"
+width="320"
+alt="Top Languages"
+/>
+</a>
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=notkoushik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
-
----
-
-## 🎯 Currently Exploring
-
-- Better real-time architectures with WebSocket & event-driven patterns  
-- AI/ML on-device (TensorFlow Lite) for healthcare & security use cases  
-- Clean architecture for scalable Flutter apps  
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/koushik-botcha)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanikoushik96@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notkoushik)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=notkoushik&color=58A6FF&style=flat-square&label=Profile+Views" />
-</div>
+<p align="center">
+<em>⚡ “Shipping real-world apps, one feature at a time.” ⚡</em>
+</p>
