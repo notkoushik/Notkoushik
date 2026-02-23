@@ -137,3 +137,41 @@ alt="Top Languages"
 <p align="center">
 <em>⚡ “Shipping real-world apps, one feature at a time.” ⚡</em>
 </p>
+### 📊 GitHub Insights
+
+<p align="center">
+<a href="https://github.com/notkoushik">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notkoushik&theme=vue"
+alt="GitHub Profile Summary"
+/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/notkoushik">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notkoushik&theme=vue"
+width="320"
+alt="GitHub Stats"
+/>
+</a>
+<a href="https://github.com/notkoushik?tab=repositories">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notkoushik&theme=vue"
+width="320"
+alt="Top Languages"
+/>
+</a>
+</p>
+
+<p align="center">
+<img
+src="https://streak-stats.demolab.com?user=notkoushik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+alt="GitHub Streak"
+/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=notkoushik&color=58A6FF&style=flat-square&label=Profile+Views" />
+</p>
